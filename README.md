@@ -21,3 +21,5 @@ By collaborating with my peers I was able to understand and get an overall pictu
 * How to create a `main.js` file to put code in
 * How to use `innerHTML`,  to place answers in the correct element in the `index.html` file.
 * How to deploy to GH Pages
+
+![Program Screen Shot](data.png)
